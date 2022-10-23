@@ -20,7 +20,7 @@
 					
 			<div class='name'>
 				<p>Здесь выходят переменные: <br>
-					<?php echo 'Имя: ', $name, ', ', 'Возраст: ', $age, ', ', 'Страна: ', $country, ', ', '<br>';?>
+					<?php echo 'Имя: ', $name, ', ', 'Фамилия: ', $surname, ', ', 'Возраст: ', $age, ', ', 'город: ', $city, '<br>';?>
 				</p>
 			</div>
 			<div class='knowledge'>           
